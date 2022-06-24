@@ -13,13 +13,13 @@ body {
 }
 
 .page {
-    width: 600px;
-    margin: 0 auto;
-    padding-top: 65px;
-  }
-  
-  nav {
-    display: flex;
+  width: 1000px;
+  margin: 0 auto;
+  padding-top: 65px;
+}
+
+nav {
+  display: flex;
     justify-content: start;
     align-items: center;
   
